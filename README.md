@@ -20,14 +20,6 @@ Keen on cycling, also love learning new stuff. That's why at the moment I'm doin
 - Git
 - Adobe Photoshop
 
-## Code example
-
-```
-function squareDigits(num){
- return Number(('' + num).split('').map(function (val) { return val * val;}).join(''));
-}
-```
-
 ## Education and experience
 
 - Belarusian State University of Informatics and Radioelectronics, specialize in digital marketing (Going to graduate in 2022)
