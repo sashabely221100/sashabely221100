@@ -2,6 +2,7 @@
 
 ## Contact info:
 
+- CV site: [*click me*](https://sashabely221100.github.io/rsschool-cv/)
 - Email: <sashabelyy2012@gmail.com>
 - GitHub: [sashabely221100](https://github.com/sashabely221100)
 - Telegram: [@sanya_whitey](https://t.me/sanya_whitey)
