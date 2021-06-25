@@ -1,4 +1,4 @@
-# Beliy Alexander - junior developer
+# Beliy Alexander - junior front end developer
 
 ## Contact info:
 
