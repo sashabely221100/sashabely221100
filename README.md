@@ -29,6 +29,8 @@ Keen on cycling, also love learning new stuff. That's why at the moment I'm doin
 - Used to study at [ItechArt](https://www.itechart.by/) as a trainee Frontend developer, unfortunately couldn't make it to the end of the internship due to some health issues :(
 
 
-Looking forward to any job offers!
+
 
 ## English level - C1
+
+### Looking forward to any job offers!
