@@ -26,5 +26,9 @@ Keen on cycling, also love learning new stuff. That's why at the moment I'm doin
 - Belarusian State University of Informatics and Radioelectronics, specialize in digital marketing (Going to graduate in 2022)
 - Belhard C# and Unity courses (2015-2016)
 - As a front-end developer took part in Belarus Digital Future hackathon, arranged by [Coordination Council](https://rada.vision/ru) and [Imaguru](https://imaguru.by/)
+- Used to study at [ItechArt](https://www.itechart.by/) as a trainee Frontend developer, unfortunately couldn't make it to the end of the internship due to some health issues :(
+
+
+Looking forward to any job offers!
 
 ## English level - C1
