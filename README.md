@@ -17,8 +17,11 @@ Keen on cycling, also love learning new stuff. That's why at the moment I'm doin
 
 - HTML5
 - CSS3
+- SCSS
+- GULP
 - JavaScript
 - Git
+- Figma
 - Adobe Photoshop
 
 ## Education and experience
