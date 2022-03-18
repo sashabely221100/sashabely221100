@@ -11,7 +11,7 @@
 ## Summary:
 
 I'm an active and creative guy from Minsk, currently study at the Faculty of Engineering and Economics at BSUIR.
-Keen on cycling, also love learning new stuff. That's why at the moment I'm doing my best to master front-end development.
+Speaking of proffesional skills I'm highly passionate about hands-on coding. Keen on cycling, also love learning new stuff. That's why at the moment I'm doing my best to master front-end development.
 
 ## Skills
 
