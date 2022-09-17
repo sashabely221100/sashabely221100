@@ -10,8 +10,8 @@
 
 ## Summary:
 
-I'm an active and creative guy from Minsk, currently study at the Faculty of Engineering and Economics at BSUIR.
-Speaking of proffesional skills I'm highly passionate about hands-on coding. Keen on cycling, also love learning new stuff. That's why at the moment I'm doing my best to master front-end development.
+I'm an active and creative guy from Minsk, who's eager to learn new things. I've graduated from BSUIR, Faculty of Engineering and Economics in 2022. 
+I'm quite fluent in English, and speaking of my professional skills, my technological stack besides Front-end includes a little experience in C++ and Java. I'm also highly passionate about hands-on coding, performance and accessibility. I'm really keen on cycling, music and dancing. I'm loking forward to becoming a part of a company that values both soft and hard skills of its employees. At the moment I'm doing my best to master front-end development.
 
 ## Skills
 
